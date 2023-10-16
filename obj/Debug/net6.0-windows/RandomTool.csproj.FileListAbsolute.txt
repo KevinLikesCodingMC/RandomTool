@@ -1,0 +1,17 @@
+D:\KevinCppProject\RandomTool\bin\Debug\net6.0-windows\RandomTool.exe
+D:\KevinCppProject\RandomTool\bin\Debug\net6.0-windows\RandomTool.deps.json
+D:\KevinCppProject\RandomTool\bin\Debug\net6.0-windows\RandomTool.runtimeconfig.json
+D:\KevinCppProject\RandomTool\bin\Debug\net6.0-windows\RandomTool.dll
+D:\KevinCppProject\RandomTool\bin\Debug\net6.0-windows\RandomTool.pdb
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.csproj.AssemblyReference.cache
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.Form1.resources
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.csproj.GenerateResource.cache
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.AssemblyInfoInputs.cache
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.AssemblyInfo.cs
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.csproj.CoreCompileInputs.cache
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.dll
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\refint\RandomTool.dll
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.pdb
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\RandomTool.genruntimeconfig.cache
+D:\KevinCppProject\RandomTool\obj\Debug\net6.0-windows\ref\RandomTool.dll
